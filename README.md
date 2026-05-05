@@ -39,7 +39,7 @@ https://www.douyin.com/user/self?from_tab_name=main&modal_id=7615277045148405019
 
 脚本会自动去掉 `modal_id`，回到该收藏夹的视频列表页继续跑。
 
-## 推荐试跑
+## 推荐行为
 
 先只跑前 3 个，确认页面结构和账号状态没问题：
 
